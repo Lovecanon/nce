@@ -4,12 +4,6 @@ We can read of things that happened 5,000 years ago in the Near East, where peop
 But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten. So archaeologists have neither history nor legends to help them to find out where the first 'modern men' came from.
 
 Fortunately, however, ancient men made tools of stone, especially flint, because this is easier to shape than other kinds. They may also have used wood and skins, but these have rotted away. Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.
-	
-	ROBIN PLACE Finding fossil man
-	
-	
-	
-	Polished axeheads found at Seamers Moor in Yorkshire
 
 ### New words and expressions 生词和短语
 
@@ -28,24 +22,21 @@ anthropologist   /ˌænθrəˈpɑ:lədʒɪst/  n.  人类学家
 
 ### Notes on the text 课文注释
 
-1.hand down 把...传下去
-	例句：Many old legends were handed down from generation by mouth.  
-	许多古老的传说都是一代一代口传下来了。
+1. hand down 把...传下去
+例句：Many old legends were handed down from generation by mouth. 许多古老的传说都是一代一代口传下来了。
 
-2.read of，读到，和read about是相同的意思。
+2. read of，读到，和read about是相同的意思。
 	谈到：speak of，talk of
 	了解到：know of
 	听到：hear of
 
-3.the first people，原始人
+3. the first people，原始人
 	people+s 表示民族
 
-4.if they had any: 即便是有，表假设
-	例句：His relatives, if he had any, never went to visit him when he was hospitalized.
-	他的亲戚，即便他还有的话，在他住院时也从来不去看他。
+4. if they had any: 即便是有，表假设
+例句：His relatives, if he had any, never went to visit him when he was hospitalized. 他的亲戚，即便他还有的话，在他住院时也从来不去看他。
 
-5.when even the bones of the men who made them have disappeared without trace，
-	这个以when引导的状语从句表示让步的意思，而when可以译成“虽然”，“尽管”。
+5. when even the bones of the men who made them have disappeared without trace，这个以when引导的状语从句表示让步的意思，而when可以译成“虽然”，“尽管”。
 
 ### 参考译文
 
