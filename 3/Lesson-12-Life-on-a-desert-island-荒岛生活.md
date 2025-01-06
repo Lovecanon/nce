@@ -3,7 +3,7 @@ Most of us have formed an unrealistic picture of life on a desert island. We som
 
 Two men who recently spent five days on a coral island wished they had stayed there longer. They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired. During the journey, their boat began to sink. They quickly loaded asmall rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island. There were hardly any trees on the island and there was no water, but this did not prove to be a problem. The men collected rainwater in the rubber dinghy. As they had brought a spear gun with them, they had plenty to eat. Theycaught lobster and fish every day, and, as one of them put it ‘ate like kings’. When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.
 
-New words and expressions 生词和知语
+## New words and expressions 生词和知语
 
 desert island（title）/'dezət-ailənd/荒岛
 Miami（1. 10）/mai'æmi/n．迈阿密（美国最南的城市）

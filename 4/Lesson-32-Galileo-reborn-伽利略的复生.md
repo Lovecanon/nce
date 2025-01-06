@@ -8,7 +8,7 @@ MICHAEL HOSKIN Galileo Reborn from The Listener
 	
 Artist concept of the space telescope showing the shuttle,TDRSS,and a ground station
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 controversy n. 争议，争论
 dust n. 纠纷，骚动

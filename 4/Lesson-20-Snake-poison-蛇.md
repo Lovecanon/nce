@@ -10,7 +10,7 @@ JOHN CROMPTON The snake
 	
 An Indian grass snake swallowing a frog
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 saliva n. 唾液
 digestive adj. 助消化的

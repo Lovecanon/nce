@@ -8,7 +8,7 @@ KENNETH WALKER Patients and doctors
 	
 A doctor with her patient
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 sceptical adj. 怀疑的
 forefathers n. 祖先

@@ -7,7 +7,7 @@ Then the cannons of the anchored warships thundered a salute to which the Vasa f
 
 ROY SAUNGERS The Raising of the 'Vasa' from The Listener
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 galleon n. 大型帆船
 Stockholm n. 斯德哥尔摩

@@ -10,23 +10,23 @@ H.H,SWINNERTON The Earth beneath Us
 	
 The Shaw seismograph at the Science   An earthquake recorded on a seismograph Museum,London
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
-earthquake n. 地震
-slumber v. 睡眠
-ninepin n. 九柱戏中的木柱
-rigid adj. 坚硬的
-delicate adj. 灵感的
-seismometer n. 地震仪
-penholder n. 笔杆
-legibly adv. 字迹清楚地
-drum n. 鼓状物
-wriggle v. 扭动
-bluebottle n. 绿头苍蝇
-graph n. 图表
-graphic adj. 图示的
-longitudinal adj. 纵向的
-transverse adj. 横向的
+- earthquake n. 地震
+- slumber v. 睡眠
+- ninepin n. 九柱戏中的木柱
+- rigid adj. 坚硬的
+- delicate adj. 灵感的
+- seismometer n. 地震仪
+- penholder n. 笔杆
+- legibly adv. 字迹清楚地
+- drum n. 鼓状物
+- wriggle v. 扭动
+- bluebottle n. 绿头苍蝇
+- graph n. 图表
+- graphic adj. 图示的
+- longitudinal adj. 纵向的
+- transverse adj. 横向的
 
 ## Notes on the text 课文注释
 

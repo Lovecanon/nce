@@ -16,7 +16,7 @@ INVESTOR'S CHRONICLE, March 23 1990
 	
 The Stock Exchange,Tokyo 1994
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 portfolio n. 投资组合
 tipster n. （以提供证券投机等内部消息为主的）情报贩子

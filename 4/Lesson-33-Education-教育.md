@@ -10,7 +10,7 @@ JULIUS E. LIPS The Origin of Things
 	
 The library at the University of Sussex
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 adverse adj.不利的
 purchasable adj.可买到的

@@ -16,7 +16,7 @@ RICHARD DAWOOD Travellers' Health
 	
 A woman is drawing water from a well
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 contamination n. 污染
 sanitation n. 卫生，卫生设备

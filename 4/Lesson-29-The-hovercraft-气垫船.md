@@ -10,7 +10,7 @@ EGON LARSEN The Pegasus Book of Inventors
 	
 A hovercraft
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 hovercraft n. 气垫船
 Norfolk Broads n. 诺福克郡的湖泊地区

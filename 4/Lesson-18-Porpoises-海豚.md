@@ -8,7 +8,7 @@ RALPH NADING HILL Window in the Sea
 	
 Dolphins jumping at marineland in California
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 porpoise n. 海豚
 mariner n. 水手

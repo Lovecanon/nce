@@ -13,7 +13,7 @@ The idea of colonising Mars -- a world 160 times more distant time the Moon -- w
 
 7. DAYS, February 19, 1989
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 hub n. （活动的）中心
 lunar adj. 月球的

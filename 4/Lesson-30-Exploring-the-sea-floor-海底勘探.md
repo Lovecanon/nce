@@ -7,7 +7,7 @@ This continental slope usually starts at a place somewhere near the 100-fatheom 
 	
 	T.F.GASKELL Exploring the Sea-floor from Science Survey
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 navigation n. 航海
 	sounding n. 水深度

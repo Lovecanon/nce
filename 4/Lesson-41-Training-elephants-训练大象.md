@@ -12,7 +12,7 @@ RICHARD CARRINGTON Elephants
 	
 A wild Indian elephant is roped to two trained ones during the first few days of training.
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 technique n. 技术
 tough adj. 强硬的

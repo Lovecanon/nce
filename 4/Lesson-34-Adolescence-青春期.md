@@ -9,7 +9,7 @@ Victorian parents believed that they kept their dignity by retreating behind an 
 	
 DOTID OFLUM Journey Through Adolescence
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 adolescence n. 青春期
 slur n. 底毁

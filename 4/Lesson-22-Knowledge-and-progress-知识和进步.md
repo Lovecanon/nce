@@ -6,7 +6,7 @@ G.N.M.TYRRELL The Personality of Man
 	
 A military field-hospital
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 loom v. 赫然耸起
 manifest adj.明显的

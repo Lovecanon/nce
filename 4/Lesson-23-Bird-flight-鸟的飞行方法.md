@@ -6,7 +6,7 @@ WILLIAM BEACH THOMAS A Countryman's Creed
 	
 A flock of wild geese in flight
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 albatross n. 信天翁
 sustenance n. 支撑力

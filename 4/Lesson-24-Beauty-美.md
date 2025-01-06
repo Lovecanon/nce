@@ -8,7 +8,7 @@ C.E.M.JOAD Pieces of Mind
 	
 Detail of Madonna and Child - Filippo Lippi(C.1406-1469)
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 intense adj. 强烈的
 aesthetic adj. 审美的

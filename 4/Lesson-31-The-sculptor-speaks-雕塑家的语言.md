@@ -10,7 +10,7 @@ HENRY MOORE The Sculptor Speaks from The Listener
 	
 Henry Moore and his sculpture,Reclining Figure
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 colour-blind adj. 色盲的
 perception n. 知觉

@@ -10,7 +10,7 @@ CARL FOREMAN Virtue and a Fast Gun from The Observer
 	
 William S.Hart in an early Western
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 Supreme adj. 首屈一指
 protagonist n. 主角

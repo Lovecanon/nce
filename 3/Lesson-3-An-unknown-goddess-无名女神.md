@@ -7,7 +7,7 @@ The body of one statue was found among remains dating from the 15th century B.C.
 
 She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 	
 goddess(title) /'gɔdis/ n．女神
 * sacred（1. 10)/'seikrid/ adj．宗教的，神圣的

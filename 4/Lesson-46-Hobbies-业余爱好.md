@@ -14,7 +14,7 @@ WINSTON CHURCHLL Painting as a Pastime
 	
 Sir Winston Churchill painting in Switzerland in 1946
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 gifted adj. 有天才的
 psychologist n. 心理学家

@@ -12,7 +12,7 @@ RUTH BENEDICT Patterns of Culture
 	
 A Padaung girl from Burma in her brass necklace
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 commonplace adj. 平凡的
 aberrant adj. 脱离常轨的，异常的

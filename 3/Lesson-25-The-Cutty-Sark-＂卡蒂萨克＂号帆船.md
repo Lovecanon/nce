@@ -3,7 +3,7 @@ One of the most famous sailing ships of the nineteenth century, the Cutty Sark, 
 
 The first of the two ships to reach Java after the race had begun was the Thermopylae , but on the Indian Ocean, the Cutty Sark took the lead. It seemed certain that she would be the first ship home, but during the race she had a lot of bad luck. In August, she was struck by a very heavy storm during which her rudder was torn away. The Cutty Sark rolled from side to side and it became impossible to steer her. A temporary rudder was made on board from spare planks and it was fitted with great difficulty. This greatly reduced the speed of the ship, for there was a danger that if she travelled too quickly, this rudder would be torn away as well. Because of this, the Cutty Sark lost her lead. After crossing the Equator, the captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over five hundred miles ahead. Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win. She arrived in 20 England a week after the Thermopylae. Even this was remarkable, considering that she had had so many delays. There is no doubt that if she had not lost her rudder she would have won the race easily.
 
-New Words and Expressions 生词和短评
+## New words and Expressions 生词和短评
 
 * impressive（1. 4) /im'presiv/ adj . 给人深刻印象的
 * steamship（1. 5) /'sti:m'ʃip/ n. 蒸汽轮船

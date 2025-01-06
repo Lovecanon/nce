@@ -16,7 +16,7 @@ from World Magazine (BBC Enterprises)
 	
 Waves,a painting by Utagawa Hiroshigi(1797-1858)
 
-New words and expressions 生词与短语
+## New words and expressions 生词与短语
 
 signature n. 签名，标记
 infinity n. 无穷
