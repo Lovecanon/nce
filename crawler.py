@@ -44,6 +44,7 @@ def get_article(url, title):
 
 
 def get_chapters():
+    # https://web.archive.org/web/20230926202149/http://en-nce.xiao84.com/nce4/20293.html
     urls = [f"https://en-nce.xiao84.com/nce4/p1_{i}.html" for i in range(1, 3)]
     for url in urls:
         resp = session.get(url, timeout=10)
