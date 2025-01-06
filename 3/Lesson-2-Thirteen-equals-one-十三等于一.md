@@ -6,29 +6,29 @@ One night, however, our vicar woke up with a start: the clock was striking the h
 'Whatever are you doing up here Bill?' asked the vicar in surprise.
 	'I'm trying to repair the bell,' answered Bill. 'I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.'
 	'You certainly did give me a surprise!' said the vicar. 'You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.'
-	That's the trouble, vicar,' answered Bill. 'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it."
-	We'll get used to that, Bill,' said the vicar. "Thirteen is not as good as one, but it's better than nothing. Now let's go downstairs and have a cup of tea.'
+That's the trouble, vicar,' answered Bill. 'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it."
+We'll get used to that, Bill,' said the vicar. "Thirteen is not as good as one, but it's better than nothing. Now let's go downstairs and have a cup of tea.'
 
-### New words and expressions 生词和短语
+## New words and expressions 生词和短语
 
 equal v.等于
-	vicar n.牧师
-	raise v.募集，筹（款）
-	torchlight n.电筒光
+vicar n.牧师
+raise v.募集，筹（款）
+torchlight n.电筒光
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. woke up with a start:...
-	with a start,由于受到惊动，惊醒了。冒号后面是一个解释性的分句，是对start所作的具体说明。
+with a start,由于受到惊动，惊醒了。冒号后面是一个解释性的分句，是对start所作的具体说明。
 2. recognize as,认出是。
 3. Whatever are you doing up here?你究竟在这上面干什么。
-	whatever 用于疑问句中，用以加强 what 的语气，作“究竟什么”解，口语中很常用。
+whatever 用于疑问句中，用以加强 what 的语气，作“究竟什么”解，口语中很常用。
 4. You certainly did give me a surprise!你确实使我感到意外！
-	在英语中助动词 do 可以用来表示强调。此时助动词do放在谓语动词之前。
+$1 do 可以用来表示强调。此时助动词do放在谓语动词之前。
 5. Thirteen is not as good as one,but it is better than nothing.
-	敲 13下虽然不如敲 1下好，但总比1下不敲强多了。
+$1 13下虽然不如敲 1下好，但总比1下不敲强多了。
 
-### 参考译文
+## 参考译文
 
 我们教区的牧师总是为各种各样的事筹集资金。但始终未能筹足资金把教堂的钟修好。教堂的钟很大，以前不分昼夜打点报时，但很多年前遭到毁坏，从此便无声无息了。
 
@@ -39,4 +39,3 @@ equal v.等于
 	“你确实使我大吃了一惊！”牧师说，“也许同时你把村里所有的人都吵醒了。不过，钟又能报时了，我还是很高兴的。”
 	“问题就在这里，牧师，”比尔回答说。“不错，钟能报时了，但是，恐怕每到1点钟，它总要敲13下，对此我已无能为力了。”
 	“大家慢慢就习惯了，比尔，”牧师说。“13下是不如1下好，但总比1下也不敲强。来，咱们下楼去喝杯茶吧。”
-

@@ -12,45 +12,45 @@ It may also be said that rational, industrious, useful human beings are divided 
 WINSTON CHURCHLL Painting as a Pastime
 	
 	
-	Sir Winston Churchill painting in Switzerland in 1946
+Sir Winston Churchill painting in Switzerland in 1946
 
 New words and expressions 生词与短语
 
 gifted adj. 有天才的
-	psychologist n. 心理学家
-	spasm n. 一阵（感情）发作
-	futile adj. 无用的
-	insinuate v. 便潜入，暗示
-	convulsive adj. 起痉挛的
-	illumination n. 启发，照明
-	undue adj. 不造当的
-	grip n. 紧张
-	recuperation n. 休息
-	improvise v. 临时作成
-	sedulously adv. 孜孜不倦地
-	vivify v. 使生气勃勃
-	aggravate v. 加剧
-	trifling adj. 微小的
-	gratify v. 便满意
-	caprice n. 任性
-	satiation n. 满足
-	frantically adv. 狂乱地
-	avenge v. 替…报复
-	boredom n. 厌烦
-	clatter n. 喧闹的谈话
-	sustenance n. 生计
-	appetite n. 欲望
-	grudge v. 怨恨
-	absorbing adj. 引人入胜的
-	banish v. 排除，放弃
+psychologist n. 心理学家
+spasm n. 一阵（感情）发作
+futile adj. 无用的
+insinuate v. 便潜入，暗示
+convulsive adj. 起痉挛的
+illumination n. 启发，照明
+undue adj. 不造当的
+grip n. 紧张
+recuperation n. 休息
+improvise v. 临时作成
+sedulously adv. 孜孜不倦地
+vivify v. 使生气勃勃
+aggravate v. 加剧
+trifling adj. 微小的
+gratify v. 便满意
+caprice n. 任性
+satiation n. 满足
+frantically adv. 狂乱地
+avenge v. 替…报复
+boredom n. 厌烦
+clatter n. 喧闹的谈话
+sustenance n. 生计
+appetite n. 欲望
+grudge v. 怨恨
+absorbing adj. 引人入胜的
+banish v. 排除，放弃
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
-1、catch hold of,抓住....,let ...go,放掉....。
-	2、lay one's hands on,得到...,抓到....。
-	3、Fortune's favoured children 中的Fortune是指“命运女神”。
+1. catch hold of,抓住....,let ...go,放掉....。
+2. lay one's hands on,得到...,抓到....。
+3. Fortune's favoured children 中的Fortune是指“命运女神”。
 
-### 参考译文
+## 参考译文
 
 一位天才的美国心理学家曾经说过：“烦恼是感情的发作，此时脑子纠缠住了某种东西又不肯松手。”在这种情况下，你又和头脑争吵让它松手是无济于事的。这种意志越是强烈，这种尝试越是徒劳。你只能缓和而巧纱地让另一种东西进入痉挛僵持的头脑中。如果选得合适，而且的确受到别的领域的情趣的启迪，那么渐渐地，往往也是很顺利地，原先不适当的紧张就会松弛下来，恢复和修整的过程就会开始。
 
@@ -61,4 +61,3 @@ gifted adj. 有天才的
 至于那些能任意支配一切的“可怜的人”，他们能够恣意妄为，能染指一切追求的目标。对这种人来说，多一种新的乐趣、多一种新的刺激只是增加一分厌腻而已。他们到处奔乱跑，企图以闲聊和乱窜来摆脱无聊对他们的报复，但这是徒劳的。对他们来说，用某种形式的纪律约束他们一下才能有希望使他们走上正道。
 
 也可以这样说，理智的，勤劳的、有用的人可以分为两类：第一类是他分清工作是工作，娱乐是娱乐的人；第二类人的工作和娱乐是一回事。这两类人当中，第一类人是大多数，他们能够得到补偿。在办公室或工厂里长时间工作给他们带来了酬劳，这不仅是谋生的手段，而且还带来了寻找乐趣的强烈欲望，那怕是最简单的、最低等的乐趣。但是，命运之神的宠儿是第二类人，他们的生活是一种自然的和谐，对他们来说，工作时间总不会太长，每天都是假日，而通常的假期来到，他们却惋惜这假期强制打断了他们埋头从事的工作。然而对这两种人来说，都需要换一换脑子，改变一下气氛，转移一下注意力，这是不可缺少的。说实在的，把工作当作享受的那些人最需要每隔一段时间把工作从头脑中撇开。
-

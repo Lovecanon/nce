@@ -3,7 +3,7 @@ The New Year is a time for resolutions. Mentally, at least, most of us could com
 
 The daily exercises lasted only eleven minutes and I proposed to do them early in the morning before anyone had got up. The self-discipline required to drag myself out of bed eleven minutes earlier than usual was considerable. Nevertheless, I managed to creep down into the living room for two days before anyone found me out. After jumping about on the carpet and twisting the human frame into uncomfortable positions, I sat down at the breakfast table in an exhausted condition. It was this that betrayed me. The next morning the whole family trooped in to watch the performance. That was really unsettling, but I fended off the taunts and jibes of the family good-humouredly and soon everybody got used to the idea. However, my enthusiasm waned. The time I spent at exercise gradually diminished. Little by little the eleven minutes fell to zero. By January 10th, I was back to where I had started from. I argued that if I spent less time exhausting myself at exercises in the morning, I would keep my mind fresh for reading when I got home from work. Resisting the hypnotizing effect of television, I sat in my room for a few evenings with my eyes glued to a book. One night, however, feeling cold and lonely, I went downstairs and sat in front of the televisionpretending to read. That proved to be my undoing, for I soon got back to my old bad habit of dozing off in front of the screen. I still haven't given up my resolution to do more reading. In fact, I have just bought a book entitled How to Read a Thousand Words a Minute. Perhaps it will solve my problem, but I just haven't had time to read it!
 
-### New Words and Expressions 生词和短语
+## New words and Expressions 生词和短语
 
 resolution (title) /'rezə'lu:ʃən/ n. 决心
 * mentally（1. 1) /'mentəli/ adv. 内心里
@@ -34,7 +34,7 @@ resolution (title) /'rezə'lu:ʃən/ n. 决心
 * undoing（1. 29) /ʌn'du:iŋ/ n. 祸根，毁灭的原因
 * screen（1. 30) /skri:n/ n. 电视机屏幕
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. dos and don'ts，要做的事和不要做的事。
 2. year in year out，年复一年。
@@ -49,9 +49,8 @@ resolution (title) /'rezə'lu:ʃən/ n. 决心
 11. fend off，挡回，避开。
 12. doze off，打瞌睡。
 
-### 参考译文
+## 参考译文
 
 新年是下决心的时候，至少在大多数人的心里会编排出一份“应做什么”和“不应做什么”的令人生畏的单子。相同的决心以单调的规律年复一年地出现。我们决心每天早晨起得早些；吃得少些；多花点时间与孩子们一起做游戏；做大量的家务；对不喜欢的人友善一些；小心驾车；每天都要带着狗散步；等等。以往的经验告诉我们有些事是办不到的。如果我们烟瘾大，戒不掉，那是因为屡戒屡败，失去了信心。我们大多数人想自我完善却遭到失败，这是因为我们的规划过于宏大，而又根本没有时间去实施。我们还犯有一个根本性的错误，即把我们的决心向大家宣布。这样一旦滑回到那些环的老习惯上去，我们在别人眼里会显得更加难堪。我深知这些问题，于是，今年我对自己的计划要严加保密，只给自己定下两项适中的任务：每天早上锻炼身体，每天晚上多看点书。新年除夕举办的一次通宵晚会，使我理直气壮地在新年头一天免去了这两项任务。不过，新年第二天，我全力以赴地照着去做了。
 
 早锻炼一共只有11分钟，我打算在别人起床之前进行。这就要求我比平日早11分钟把自己从床上拽起来，这种自我约束是很艰苦的。不过开头两天我还是成功地蹑手蹑脚地来到楼下起居室，被谁也没发现。我在地毯上跳过来蹦过去，扭曲身子，摆出各种姿势，弄得浑身不舒服，然后坐到桌边吃早饭，一副筋疲力尽的样子。正是这副模样泄露了我的秘密。第二天早晨全家人结队来到起居室看我表演。这真叫人不好意思，但我心平气和地顶住了全家人的嘲笑和奚落。不久，大家对我习以为常了，而这时我的热情却减退了。我花在锻炼上的时间逐渐减少，慢慢地从11分钟减到了零。到了1月10日，我恢复了原来的作息时间。我辩解说，早晨少耗费精力锻炼，晚上下班回家看书时头脑更清醒些。有几天晚上，我极力摆脱了电视的诱惑，坐在自己房间里，两眼盯在书上。可是，有一天夜里，我感到又冷又孤单，便来到楼下坐在电视机前假装看书。这下我可完了，因为不一会儿，我就恢复了以前的坏习惯，在屏幕前打起瞌睡来。但我还没有放弃多看些书的决心。事实上，我刚买来一本叫《一分钟读一千字的诀窍》的书。也许这本书能解决我的问题，但我一直还没时间去看这本书！
-

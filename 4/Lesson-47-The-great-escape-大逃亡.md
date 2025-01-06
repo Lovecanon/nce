@@ -16,42 +16,42 @@ Whether the remarkable growth of organized camping means the eventual death of t
 NIGEL BUXTON The Great Escape from The Weekend Telegraph
 	
 	
-	Modern camping
+Modern camping
 
 New words and expressions 生词与短语
 
 assumption n. 假定
-	manoeuvre v. （驱车）移动
-	myriad adj. 无数的
-	paradox n. 自相矛盾的呈
-	cynic n. 愤世嫉俗者
-	sociologist n. 社会学家
-	shun v. 避开
-	affluent adj. 富有的
-	chambermaid n. 女招待员
-	boo n. 呸的一声
-	maitre d'hotel n. [法语]总管
-	snobbery n. 势利
-	hierarchy n. 等级制度
-	entail v. 便成为必要
-	inclement adj. 险恶的
-	package tour 由旅行社安排一切的一揽子诱游
-	insularity n. 偏狭
-	cater v. 迎合
-	exclusively adv. 排他地
-	cosmopolitan adj. 世界的
-	preponderance n. 优势
-	overwhelmingly adv. 以压倒优势地，清一色地
-	patronage n. 恩惠，惠顾
-	sauerkraut n. 泡菜
-	vie v. 竞争
-	municipality n. 市政当局
-	itinerant n. 巡回者
-	heath n. 荒地
-	alienate v. 使疏远
-	eternal adj. 永久的
+manoeuvre v. （驱车）移动
+myriad adj. 无数的
+paradox n. 自相矛盾的呈
+cynic n. 愤世嫉俗者
+sociologist n. 社会学家
+shun v. 避开
+affluent adj. 富有的
+chambermaid n. 女招待员
+boo n. 呸的一声
+maitre d'hotel n. [法语]总管
+snobbery n. 势利
+hierarchy n. 等级制度
+entail v. 便成为必要
+inclement adj. 险恶的
+package tour 由旅行社安排一切的一揽子诱游
+insularity n. 偏狭
+cater v. 迎合
+exclusively adv. 排他地
+cosmopolitan adj. 世界的
+preponderance n. 优势
+overwhelmingly adv. 以压倒优势地，清一色地
+patronage n. 恩惠，惠顾
+sauerkraut n. 泡菜
+vie v. 竞争
+municipality n. 市政当局
+itinerant n. 巡回者
+heath n. 荒地
+alienate v. 使疏远
+eternal adj. 永久的
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. it is far from...,远不是....。
 2. twenty pounds' worth of space,价值20镑的空地，其中worth是名词。
@@ -80,4 +80,3 @@ assumption n. 假定
 理想主义者像反对旅行社安排一切的一揽子旅游一样反对露营的作法，说这种封闭的作法使到国外旅游者失去了了解所去国家人民的机会。他们争论说，心胸狭窄和自我封闭是并存的。但这种说法在受人欢迎的欧洲露营地是站不住脚的。假日旅馆有只接待来自一个国家的旅游者的倾向，有时会达到排他的程度。而露营驻地则相反，是高度世界性的。在大多数地中海露营地里，德国人占优势似乎是个普遍现象，确实如此，但并没有特别的优待。禁止露天晒衣服、禁止用水龙头冲洗汽车的布告和邀请露营朋友参加舞会、乘船观光的招贴不仅印志法语、意大利语、西班牙语，而且也印成英语、德语、荷兰语。用饭的时候，德国泡菜味和大蒜味争相散发，法国人的早点咖啡和英国人的咸肉煎蛋竞相比美。
 
 有组织的露营活动的明显发展是否意味着较独立的自我封闭式露营的最终消失，还很难说。市政当局当然希望获得露营者的场地费和其他光临的好处，警察则对那些查不出有固定营地或住处的游荡者保持警惕。但最重要的或许是露营者自己，即他们引起了多少场野火，留下了多少垃圾。总之，他们是否弄得土地的主人和乡间的居民同他们反目。只有优良的童子军活动才能保持不朽的童子军所衷心热爱的各项自由。
-

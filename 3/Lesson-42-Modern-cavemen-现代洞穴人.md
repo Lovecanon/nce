@@ -5,7 +5,7 @@ Exploring really deep caves is not a task for the Sunday afternoon rambler. Such
 
 A team of pot-holers recently went down the Gouffre Berger. After entering the narrow gap on the plateau, they climbed down the steep sides of the, cave until they came to a narrow corridor. They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools. Suddenlythey came to a waterfall which dropped into an underground lake at the bottom of the cave. They plunged into the lake, and after loading their gear on an inflatable rubber dinghy, let the current carry them to the other side. To protect themselves from the icy water, they had to wear special rubber suits. At the far end of the. lake, they came to huge piles of rubble which had been washed up by the water. In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave. Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall. After switching on powerful arc lights, they saw great stalagmites ---- some of them over forty feet high ---- rising up like tree-trunks to meet the stalactites suspended from the roof. Round about, piles of limestone glistened in all the colours of the rainbow. In the eerie silence of the cavern, the only sound that could be heard was made by water which dripped continuously from thehigh dome above them.
 
-### New Words and Expressions 生词和短语
+## New words and Expressions 生词和短语
 
 caveman(title)/'keeivmæn/n. （远古）洞穴人
 * wade（1. 20)/weid/v. 涉水，蹚水
@@ -38,7 +38,7 @@ caveman(title)/'keeivmæn/n. （远古）洞穴人
 	Everest(1. 17)/'evərist/n. 珠穆朗玛峰
 * dome（1. 31)/dəum/n. 穹窿，圆顶
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. as it has come to be known, 正如已逐渐为人所了解的那样，此处作插入语。
 2. it is the desire… or the chance… that…这是强调句式，被强调的部分是句子的主语the desire… or the chance…
@@ -49,11 +49,10 @@ caveman(title)/'keeivmæn/n. （远古）洞穴人
 7. which they found was caused…of the cave.
 	which was caused…of the cave是定语从句，修饰 sound; they found此处作插入语。 shooting down… of the cave是现在分词短语作定语，修饰 waterspout。
 
-### 参考译文
+## 参考译文
 
 洞穴勘查——或洞穴勘探——是一项比较新的体育活动。寻求独居独处的愿望或寻求意外发现机会的欲望吸引着人们来到地下深处。要想对洞穴探险者的动机作出满意的解释是不可能的。对洞穴探险者来说，洞穴有一种特殊的魅力，就像高山对于登山者有特殊的魅力一样。为什么洞穴能引发人的那种探险本能，人们对此只能有一种模模糊糊的理解。
 
 探测非常深的洞穴不是那些在星期日下午漫步的人所能胜任的。这种活动需要有军事行动般的周密布署和预见能力。有时需要花费整整8天时间来搭起绳梯，建立供应基地，然后才能下到一个很深的洞穴里。作出这样的准备是必要的，因为无法预见到洞穴探险者究竟会遇到什么性质的困难。世界上最深的洞穴是格里诺布尔附近的高弗·伯杰洞，深达3，723英尺。这个深邃的洞穴是由一条地下暗泉冲刷岩石中的缝隙并使之慢慢变大而形成的。此洞的洞口在丹芬阿尔卑斯山的高原上，仅6英尺宽，很难被人发现。若不是法国著名洞穴探险家伯杰由于偶然的机会发现了这个洞口的话，这个洞也许永远不会为人所知。自从被发现以后，这个洞成了洞穴探险者的珠穆朗玛峰，人们多次进入洞内探险，但至今尚有不少东西有待勘探。
 
 最近，一队洞穴探险者下到了高弗·伯杰洞里。他们从高原上的窄缝进去，顺着笔直陡峭的洞壁往下爬，来到了一条狭窄的走廊上。他们不得不侧着身子往前走，有时蹚过浅溪，有时游过深潭。突然，他们来到一道瀑布前，那瀑布奔泻而下，注入洞底一处地下湖里。他们跳入湖中，把各种器具装上一只充气橡皮艇，听任水流将他们带往对岸。湖水冰冷刺骨，他们必须穿上一种特制的橡皮服以保护自己。在湖的尽头，他们见到一大堆一大堆由湖水冲刷上岸的碎石。在这儿，他们可以听见一种连续不断的轰鸣声。后来他们发现这是由山洞顶部的一个小孔里喷出的水柱跌落到水潭中时发出的声音。洞穴探险者从岩石缝里挤身过去，来到一个巨大的洞里，其大小相当于一个音乐厅。他们打开强力弧光灯，看见一株株巨大的石笋，有的高达40英尺，像树干似地向上长着，与洞顶悬挂下来的钟乳石相接。周围是一堆堆石灰石，像彩虹一样闪闪发光。洞里有一种可怕的寂静，唯一可以听见的声响是高高的圆顶上不间断地滴水的嘀嗒声。
-

@@ -14,30 +14,30 @@ Once the existence of this wave-length had been discovered, it was not long befo
 ANTHONY MICHAELIS Are There Strangers in Space? from The Weekend Telegraph
 	
 	
-	Simulation of a hypothetical sighting of a UFO(unidentified flying object) in the small town of Bellelille,Wisconsin,USA.For several months in 1986-1989,the town was plagued by UFO sightings.
+Simulation of a hypothetical sighting of a UFO(unidentified flying object) in the small town of Bellelille,Wisconsin,USA.For several months in 1986-1989,the town was plagued by UFO sightings.
 
 New words and expressions 生词与短语
 
 Mercury n. 水星
-	hydrogen n. 氢气
-	prevailing adj. 普遍的
-	radio astronomer 射电天方学家
-	uniquely adv. 唯一地
-	rational adj. 合理的
-	radio frequency 无线电频率
-	cm n. 厘米
-	megacycle n. 兆周
-	emission n. 散发
-	intersteller adj.星际的
-	rendezvous n. 约会地点
+hydrogen n. 氢气
+prevailing adj. 普遍的
+radio astronomer 射电天方学家
+uniquely adv. 唯一地
+rational adj. 合理的
+radio frequency 无线电频率
+cm n. 厘米
+megacycle n. 兆周
+emission n. 散发
+intersteller adj.星际的
+rendezvous n. 约会地点
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
-1、that given a planet...certain to start,这是一个宾语从句，作动词conclude的宾语，其中given a planet...our own,过去分词短语作条件状语，given与if的意思相近，这个过去分词短语可译成“如果一个行星与我们所在的行星大致相同的话”。
-	2、is best left unsaid,最好不去说（它）。
-	3、come up against,遇到。
+1. that given a planet...certain to start,这是一个宾语从句，作动词conclude的宾语，其中given a planet...our own,过去分词短语作条件状语，given与if的意思相近，这个过去分词短语可译成“如果一个行星与我们所在的行星大致相同的话”。
+2. is best left unsaid,最好不去说（它）。
+3. come up against,遇到。
 
-### 参考译文
+## 参考译文
 
 根据研究生命起源的人们所作的工作，我们必然会得出这样的结论：如果设想有一颗行星和我们地球的情况基本相似，那几乎肯定会产生生命。我们目前可以肯定的是，在我们太阳系的所有行星中，地球是生命能存在的唯一行星。火星太干燥又缺氧，金星太热，水星也一样。除此之外，太阳系的其他行星的温度都接近绝对零度，并围绕着以氢气为主的大气层。但是，其他的太阳，既天文学家所说的恒星，肯定会有像我们地球一样的行星。因为宇宙中恒星的数目极其庞大，所以存在着产生生命星球的这种可能性是肯定无疑的。仅我们的银河系就有1000亿颗星，况且在宇宙中还有30亿个天河，即银河系。因此，我们所知道的现有恒星数目估计约有30亿X1000亿颗。
 
@@ -50,4 +50,3 @@ Mercury n. 水星
 幸运的是，有一种我们可以和其他智力生命通迅联系的“唯一合理的方法”，正如活尔特.沙利方在其杰作《我们并不孤独》中阐述的。这种通迅联系要靠21厘米波段，即每秒1420兆周的精确无线电频率。这个频率是空间氢原子释放的自然频率，是在1951年被人类发现的。这个频率是宇宙中任何射电天文学家都应该熟悉的。
 
 一旦这种波长的实际存在被发现，提出把它作为星际间唯一可辨认的广播频率就为期不远了。没有这手段，要想寻觅其他星球上的智力生命，就如同去伦敦见一位朋友，事先未约定地点，而荒唐地在街上游逛，以期待碰巧遇上一样。
-

@@ -6,26 +6,26 @@ Nearly all the sports practised nowadays are competitive. You play to win, and t
 GEORGE ORWELL The sporting spirit
 	
 	
-	East Midlands "PIX"
+East Midlands "PIX"
 
-### New words and expressions 生词和短语
+## New words and expressions 生词和短语
 
 goodwill n.友好
-	cricket n.板球
-	inclination n.意愿
-	contest n.比赛
-	orgy n.无节制，放荡
-	deduce v.推断
-	competitive adj.竞争性的
-	patriotism n.地方观念，爱国主义
-	disgrace v.使丢脸
-	savage adj.野性的
-	combative adj.好斗的
-	mimic 模拟战争
-	behaviour n.行动，举止
-	absurd adj.荒唐的
+cricket n.板球
+inclination n.意愿
+contest n.比赛
+orgy n.无节制，放荡
+deduce v.推断
+competitive adj.竞争性的
+patriotism n.地方观念，爱国主义
+disgrace v.使丢脸
+savage adj.野性的
+combative adj.好斗的
+mimic 模拟战争
+behaviour n.行动，举止
+absurd adj.荒唐的
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. if only the common peoples of the world...,这里 if only 引导的一个非真实条件句，if only作“只要”讲。
 2. have no inclination to do,无意做.....,不想做.....。
@@ -34,9 +34,8 @@ goodwill n.友好
 5. pick up,随意挑选。
 6. and,behind the spectators,of the nations,在of the nations前面省略了the attitude。
 
-### 参考译文
+## 参考译文
 
 当我听人们说体育运动可创造国家之间的友谊，还说各国民众若在足球场或板球场上交锋，就不愿在战场上残杀的时候，我总是惊愕不已。一个人即使不能从具体的事例（例如1936年的奥林匹克运动会）了解到国际运动比赛会导致疯狂的仇恨，也可以从常理中推断出结论。
 
 现在开展的体育运动几乎都是竞争性的。参加比赛就是为了取胜。如果不拚命去赢，比赛就没有什么意义了。 在乡间的草坪上，当你随意组成两个队，并且不涉及任何地方情绪时，那才可能是单纯的为了娱乐和锻炼而进行比赛。可是一量涉及到荣誉问题，一旦你想到你和某一团体会因为你输而丢脸时，那么最野蛮的争斗天性便会激发起来。即使是仅仅参加过学校足球赛的人也有种体会。在国际比赛中，体育简直是一场模拟战争。但是，要紧的还不是运动员的行为，而是观众的态度，以及观众身后各个国家的态度。面对着这些荒唐的比赛，参赛的各个国家会如痴如狂，甚至煞有介事地相信 -- 至少在短期内如此 -- 跑跑、跳跳、踢踢球是对一个民族品德素质的检验。
-

@@ -14,32 +14,32 @@ If no other safe water supply can be obtained, tap water that is too hot to touc
 RICHARD DAWOOD Travellers' Health
 	
 	
-	A woman is drawing water from a well
+A woman is drawing water from a well
 
 New words and expressions 生词与短语
 
 contamination n. 污染
-	sanitation n. 卫生，卫生设备
-	sewage n. 污水
-	leakage n. 泄漏
-	intermittent adj. 间歇的，断断续续的
-	carbonated adj. 碳化的，碳酸的
-	acidic adj. 酸的，酸性的
-	alcohol n. 酒精
-	disinfectant n. 消毒剂
-	sterilize v. 消毒
-	ethanol n. 乙醇
-	bactericidal adj. 杀菌的
-	negligible adj. 可以忽略的，微不足道的
-	methylated adj. 加入甲醇的
+sanitation n. 卫生，卫生设备
+sewage n. 污水
+leakage n. 泄漏
+intermittent adj. 间歇的，断断续续的
+carbonated adj. 碳化的，碳酸的
+acidic adj. 酸的，酸性的
+alcohol n. 酒精
+disinfectant n. 消毒剂
+sterilize v. 消毒
+ethanol n. 乙醇
+bactericidal adj. 杀菌的
+negligible adj. 可以忽略的，微不足道的
+methylated adj. 加入甲醇的
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
-1、keep to,局限于。
-	2、Ice is only as safe as the water from which it is made.冰块只是当制造冰块的水安全时才是安全的。
-	3、know about,知道...的情况，了解。
+1. keep to,局限于。
+2. Ice is only as safe as the water from which it is made.冰块只是当制造冰块的水安全时才是安全的。
+3. know about,知道...的情况，了解。
 
-### 参考译文
+## 参考译文
 
 水源的污染通常是由于接近水源的地方卫条件太差而造成的：污水排入水源，污水渗入给水系统或工农业污水造成污染。即使管道供水系统在水源处安全的，等水到达龙头时就不一定总是安全的了。断断续续的水管应该被视为是非常可疑的。
 
@@ -50,4 +50,3 @@ contamination n. 污染
 冰块只有当制造冰块的水安全时才是保险的，只有知道冰块安全时才能加入饮料。可以把饮料置于冰块之上来冷却，而不是把冰块加进饮料之中。 酒精可能是医学上的消毒剂，但决不可用来消毒饮用水。乙醇的浓度为50%至70%时比较有效，浓度低于20%时，杀菌能力基本上就不存在了。强度标为95的酒中含有47%的酒精。要提防甲基化酒精，那是剧毒的，永远不能掺入饮用水。
 
 如果没有其他安全的饮用水，水管中流出的烫手的水可以留下来冷却。这种水一般是安全的。那些计划去偏远地区旅行，或在饮用水不现成的国家居住的人，应该知道如何使水适于饮用的各种办法。
-

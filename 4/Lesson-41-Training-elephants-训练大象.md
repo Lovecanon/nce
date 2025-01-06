@@ -10,37 +10,37 @@ When several elephants are being trained at one time, it is customary for the ne
 RICHARD CARRINGTON Elephants
 	
 	
-	A wild Indian elephant is roped to two trained ones during the first few days of training.
+A wild Indian elephant is roped to two trained ones during the first few days of training.
 
 New words and expressions 生词与短语
 
 technique n. 技术
-	tough adj. 强硬的
-	resentful adj. 忿恨不满的
-	assign v. 分配，指派
-	mahout n. 驯象人
-	calf n. 幼仔
-	pine v. 消瘦
-	underline v. 着重说明，强调
-	keep n. 生计
-	subservient adj. 屈从的
-	plunge v. 向前冲
-	tame adj. 养驯服了的
-	tether v. （用绳）拴
-	ticklish adj. 难对付的，棘手的
-	alarming adj. 引起惊恐的
-	accompaniment n. 伴奏
-	soothe v. 镇定
-	chant n. 单调的歌
-	reinforce v. 加强
-	endearing adj.惹人喜爱的
-	epithet n. 称呼
-	susceptible adj. 易受感动的
-	blandishment n. 奉承
-	lash v. 猛烈地甩
-	curl v. 使卷曲
+tough adj. 强硬的
+resentful adj. 忿恨不满的
+assign v. 分配，指派
+mahout n. 驯象人
+calf n. 幼仔
+pine v. 消瘦
+underline v. 着重说明，强调
+keep n. 生计
+subservient adj. 屈从的
+plunge v. 向前冲
+tame adj. 养驯服了的
+tether v. （用绳）拴
+ticklish adj. 难对付的，棘手的
+alarming adj. 引起惊恐的
+accompaniment n. 伴奏
+soothe v. 镇定
+chant n. 单调的歌
+reinforce v. 加强
+endearing adj.惹人喜爱的
+epithet n. 称呼
+susceptible adj. 易受感动的
+blandishment n. 奉承
+lash v. 猛烈地甩
+curl v. 使卷曲
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. by some unavoidable circumstance,由于某些不可避免的情况。
 2. with a grain of salt,有保留地。
@@ -48,7 +48,7 @@ technique n. 技术
 4. with the aid of,在...的帮助下。
 5. This is supposed,据说...。
 
-### 参考译文
+## 参考译文
 
 驯象有两种主要的方法，我们分别称之为强硬法和温柔法。强硬法就是驱使象去干活，把它打顺从为止。且不说道义问题，这本身就是一种愚蠢的训练方法，因为这种方法训练会使动物反感，在以后某个时期可能会变成伤人的动物。温柔法要求在最初阶段保持较大的耐心，但这种方法可以训练出性情愉快、脾气温顺，能忠实为人服务多年的大象。
 
@@ -57,4 +57,3 @@ technique n. 技术
 捕捉15至20岁之间年龄的大象进行驯象最为经济。 这个年龄的象差不多已能干重活，可以很快挣回饲养它的开支。但这个年龄的象不易驯服，因此开始阶段需要有一位强有力的老手。捕来拴在树上的大象，每当有人走近它时，就会向前猛冲并发出尖叫，甚至一连几天都由于愤怒和恐惧而拒绝进食。有时，把一头已驯服的象拴在旁边能给野象以信心。在大多数情况下，刚缚来的象会慢慢静下来，接着开始吃食。下一步就是把象带到训练场所，这是一件棘手的事，需要在它两侧拴上两头驯服的大象才能完成。
 
 几只象同时训练时，通常是把新到的安置在两头训练得很好的大象的象厩中间，然后给它以充足的食物和水，一定不要惊扰它，以便让他能适应新居的气氛，并且看到自己的同伴身上没有发生让自己担惊受怕的事。当它进食正常了，训练就开始。驯练员手持一根有锋利金属尖头的长棒，站在象前。两位助手骑在驯服的象的背上，从两侧控制新捕的象，其他人唱着单调的歌声用手抚摸象的皮肤。据说这是为了使象产生愉快的感觉，为了加强这种效果，人们还按象的年龄性别，给以亲切的外号，如“嗬！我的孩子”、“嗬！我的爸爸”、“嗬！我的妈妈”。然而大象不会立刻被这些讨好的话感动，而往往是用鼻子朝各个方向猛烈地甩动。训练员要用有锋利金属尖的长棒控制它的这种举动，象鼻子最后疼得卷了起来，以后它就很少用鼻子去进攻了。
-

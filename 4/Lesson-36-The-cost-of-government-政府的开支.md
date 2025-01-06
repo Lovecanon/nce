@@ -13,25 +13,25 @@ The Ministry of Natural Resources and Local Govemment,Zomba,Malawi
 			
 			
 				
-				The Home Office,Whitehall,London
+			The Home Office,Whitehall,London
 
 New words and expressions 生词与短语
 
 disunited adj. 分裂的
-	correspondingly adv. 相应地
-	backward adj. 落后的
-	incur v. 承担
-	administer v. 管理
-	adminstrative adj. 行政管理的
-	analogous adj. 类似的
-	overheads n. 一般费用
-	initiative n. 主动，积极性
-	checker n. 检查人员
-	foreman n. 监工
-	dividend n. 红利
-	unduly adv. 过度地
+correspondingly adv. 相应地
+backward adj. 落后的
+incur v. 承担
+administer v. 管理
+adminstrative adj. 行政管理的
+analogous adj. 类似的
+overheads n. 一般费用
+initiative n. 主动，积极性
+checker n. 检查人员
+foreman n. 监工
+dividend n. 红利
+unduly adv. 过度地
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. economic resource,经济实力。
 2. stay in business,维持营业。
@@ -41,11 +41,10 @@ disunited adj. 分裂的
 6. keep them in order, 管理他们。
 7. be in the interests of...符合...的利益。
 
-### 参考译文
+## 参考译文
 
 如果一个国家实际上处于分裂状态，使之联合起来就是政府的事了。这样的一来就增加了政府的开支，从而相应地减少了可以用来了展国家的那部分经济资源。不应忘记，在一个贫穷落后的国家里，那部分财力是很有限的。凡是政府管理费用高的地方，用于发展国家经济的资金就会相应地减少。
 
 把国家的状况同私人企业的状况加以比较，就可以看清这个问题。一个企业为了继续经营，不得不支出一定的费用和开销。就我们的目的而言，我们只关心一种费用 -- 企业行政管理费。一家企业的行政管理开支类似于一个国家的政府管理所用的开支。如果企业中的每个人都在真诚地为提高企业利润而工作，那么企业的管理费用就会降低到相应的程度。如果企业的每个人都信得过，人人都认真负责，在各自的工作范围内发挥主动性，行政管理费用就会降低。行政管理费用的降低的原因是：每项工作只需要一个人去完成，用不着另外再有一个人检查工作。督促他遵守章程，或向有关人士汇报他的工作。但是，如果企业中谁也不可信赖会对工作尽忠守职，那公企业就会需大批的管理人员、检查人员和带班人员，管理费用就会相应在增加。管理费用增加了，那么在扣除管理费用后，企业的收入就降低了。因此用于分红的金额就用于将来开拓和发展的投资就相应地减少了。
 
 一个国家的情况也完全相同。如果人民忠于职守，举止规矩，能受到政府的信赖，那么政府就不需要大批的警察和文职人员运去促使人民遵纪守法。但是，如果一个国家处于分裂状态，政府不能相信人民的行动有利于国家，那么政府就不得不对人民进行监督、检查和控制。因此，一个处于分裂的国家必须要支付过高的行政管理费用。
-

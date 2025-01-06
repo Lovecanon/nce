@@ -5,7 +5,7 @@ When a student recently saw two workmen using a pneumatic drill outside his univ
 
 The student hid in an archway nearby where he could watch and hear everything that went on. Sure enough, a policeman arrived on the scene and politely asked the workmen to go away. When he received a very rude reply from one of the workmen, he threatened to remove them by force. The wokmen told him to do as he pleased and the policeman telephoned for help. Shortly afterwards, four more policemen arrived and remonstrated with the workmen. As the men refused to stop working, the police attempted to seize the pneumatic drill. The workmen struggled fiercely and one of them lost his temper. He threatened to call the police. At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest. Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station. Permission was granted and a policeman accompanied him to a pay phone. Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.
 
-### New Words and Expressions 生词和短语
+## New words and Expressions 生词和短语
 
 * hoax（1. 3) /həuks/ n. 骗局，戏弄
 * deception（1. 4) /di'sepʃən/ n. 欺骗，骗局
@@ -21,7 +21,7 @@ The student hid in an archway nearby where he could watch and hear everything th
 * permission（1. 21) /pə'miʃən/ n. 许可
 * grant（1. 21) /gra:nt/ v. 同意，准予
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. It has never been explained why…, 在这个句子中真正的主语是以 why引导的主语从句。
 2. specialize in, 专门从事。
@@ -33,11 +33,10 @@ The student hid in an archway nearby where he could watch and hear everything th
 8. be under arrest, 被逮捕，拘禁。
 9. Only when…did he realize that…。在这句话中， only加上状语从句放在句首，因此主句的主谓语要用倒装的句式。
 
-### 参考译文
+## 参考译文
 
 谁也弄不清为什么大学生好像比任何人都更喜欢恶作剧。大学生擅长一种特殊的恶作剧——戏弄人。请消防队来扑灭一场根本没有的大火是一种低级骗局，有自尊心的大学生决不会去做。大学生们常常做的是制造一种可笑的局面，使大家笑上一场，当然受害者是笑不出来的。
 
 最近有个学生看见两个工人在大学校门外用风钻干活，马上打电话报告警察，说有两个学生装扮成工人，正在用风钻破坏路面。挂上电话后，他又马上来到工人那儿，告诉他们若有个警察来让他们走开，不要把他当回事；还对工人说，有个学生常装扮成警察无聊地同别人开玩笑。警察与工人都对那个学生事先通报情况表示感谢。
 
 那学生躲在附近一拱形门廊里，在那儿可以看见、听到现场发生的一切。果然，警察来了，有礼貌地请工人离开此地；但其中一个工人粗鲁地回了几句。于是警察威胁要强行使他们离开。工人说，悉听尊便。警察去打电话叫人。一会儿工夫，又来了4个警察，规劝工人离开。由于工人拒绝停下手中的活，警察想夺风钻。两个工人奋力抗争，其中一个发了火，威胁说要去叫警察。警察听后讥讽地说，这大可不必，因为他俩已被逮捕了。其中一个工人装模作样地问道，在被带往警察局之前，是否可以打一个电话。警察同意了，陪他来到一个投币电话前。当他看到那个工人真的是给警察挂电话，才恍然大悟，原来他们都成了一场骗局的受害者。
-

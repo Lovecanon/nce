@@ -7,34 +7,34 @@ The adolescent, with his passion for sincerity, always respects a parent who adm
 
 Victorian parents believed that they kept their dignity by retreating behind an unreasoning authoritarian attitude; in fact they did nothing of the kind, but children were then too cowed to let them know how they really felt. Today we tend to go to the other extreme, but on the whole this is a healthier attitude both for the child and the parent. It is always wiser and safer to face up to reality, however painful it may be at the moment.
 	
-	DOTID OFLUM Journey Through Adolescence
+DOTID OFLUM Journey Through Adolescence
 
 New words and expressions 生词与短语
 
 adolescence n. 青春期
-	slur n. 底毁
-	adolescent n. 青少年（12-18岁）
-	disloyalty n.不忠实
-	spiteful adj. 恶意的，怀恨的
-	disillusionment n. 幻灭感
-	evaluation n. 评价
-	infallibility n. 一贯正确
-	resent v. 怨恨
-	sincerity n. 诚挚
-	victorian adj. 维多利亚式的
-	retreat v. 后退
-	unreasoning adj. 不凭理智的
-	authoritarian adj. 专制的
-	cow v. 吓唬
+slur n. 底毁
+adolescent n. 青少年（12-18岁）
+disloyalty n.不忠实
+spiteful adj. 恶意的，怀恨的
+disillusionment n. 幻灭感
+evaluation n. 评价
+infallibility n. 一贯正确
+resent v. 怨恨
+sincerity n. 诚挚
+victorian adj. 维多利亚式的
+retreat v. 后退
+unreasoning adj. 不凭理智的
+authoritarian adj. 专制的
+cow v. 吓唬
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. on the part of,在...一边。
 2. they have brought this on themselves,他们是咎由自取。
 3. stand up to,经得起。
 4. face up to,正视。
 
-### 参考译文
+## 参考译文
 
 当家长听到孩子赞扬自己朋友的家时，总感到不安，认为孩子在嫌弃自家的饭菜、卫生、或家具，而且愚蠢地让孩子看出自己的烦恼。他们甚至责备孩子不忠，或者讲些小朋友家长的坏话。家长这种有失身份和孩子气的作法使青春期的孩子大为震惊，决心以后不再向父母讲述去过的地方和见过的人。不要很久,家长就会抱怨孩子守口如瓶，什么事也不告诉他们，殊不知这是他们自找的。
 
@@ -43,4 +43,3 @@ adolescence n. 青春期
 青少年酷爱真诚，对于能够承认错误或无知、甚至承认自己做得不公平或不公正的父母，他们总是尊敬的，孩子们所不能原谅的是：父母错了，孩子们也看出来了，可是做父母的还不肯承认。
 
 维多利亚时代的父母认为，他们可以靠无理的权威气派来维护自己的尊严，实际上那是根本不行的。孩子们只不过被吓得不敢让父母知道自己的想法罢了。虽然现在我们倾向于走向另一个极端，但总地来看，孩子和家长双方态度都比较端正。遇事采取面对现实的态度总是比较明智和稳妥的，尽管会有暂时的痛苦。
-

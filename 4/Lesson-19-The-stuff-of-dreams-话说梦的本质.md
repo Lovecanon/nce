@@ -6,35 +6,34 @@ If it is not a question of resting the body, then perhaps it is the brain that n
 CHRISTOPHER EVANS The stuff of dreams from The Listener
 	
 	
-	Circadian rhythm experiment. A patient is asleep in a sleep research laboratory.Electrocles are attached to his head to measure brainwaves.
+Circadian rhythm experiment. A patient is asleep in a sleep research laboratory.Electrocles are attached to his head to measure brainwaves.
 
 New words and expressions 生词与短语
 
 speculation n. 推测
-	literally adv. 确实
-	odd adj. 奇特的
-	tissue n. 组织
-	plausible adj. 似乎有理的
-	hypothesis n. 假说
-	electroencephalograph n. 脑电图仪
-	electrode n. 电极
-	scalp n. 头皮
-	psychiatrist n. 精神病学家
-	punctuate v. 不时介入
-	jerky adj. 急动的
-	disorder n. 失调
-	implication n. 表明
+literally adv. 确实
+odd adj. 奇特的
+tissue n. 组织
+plausible adj. 似乎有理的
+hypothesis n. 假说
+electroencephalograph n. 脑电图仪
+electrode n. 电极
+scalp n. 头皮
+psychiatrist n. 精神病学家
+punctuate v. 不时介入
+jerky adj. 急动的
+disorder n. 失调
+implication n. 表明
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. in terms of muscle relaxation and so on,从使肌肉得到放松等方面来看。in terms of,从...方面看。
 2. then perhaps it is the brain that need resting?这是个陈述句的语序，但句尾加问号，表示说话人对这种观点有把握但需进一步证实。
 3. were it not far two factors ,这是省略了if 的条件句，可译作“如果不是下面两个因素的话”。
 4. servral nights on end,一连几夜。
 
-### 参考译文
+## 参考译文
 
 很清楚，睡眠必然具有某种作用。睡眠占去那么多时间，所以其作用似乎还是很重要。人们对睡眠作用的种种猜测，确实有数千年之久。一项使人对这个问题感到困惑的奇怪的发现是，睡眠在很大程度似乎并不仅仅是为了使身体得到休息。“休息”，从使肌肉得到放松等方面来看，只要稍微躺一躺，甚至坐一坐就能达到。人体组织在一定程度上有自我修补和自我恢复的能力，有张有弛地连续活动时，其功能最佳。事实上，睡眠状态下仍有着基本的活动量，以防止肌肉活动停止。
 
 如果睡眠的功能不是在于使身体得到休息，那么也许是让大脑得以休息？若不是下面两点，这种假使似乎是有道理的。第一点，脑电图记录仪（不过是一种把电极接到头皮上记录脑电活动的仪器）显示，人在睡眠时大脑活动的方式有变化，但没有迹象表明，其活动总量有任何减少。第二点更有意思，也更重要。前些年，美国一位精神病学者发表了一篇报告，报告中记录了眼球在睡眠时的活动情况。他指出，平常人的睡眠周期中不时伴有一阵阵奇怪的眼球队活动，这些活动有的飘忽而缓慢，有的急剧而快速。在眼球活动期间被叫醒的人都说自己在做梦；在其他期间叫醒他们，则说没有做梦。如果有两组人，一组人连续几夜在眼球队活动时被叫醒；另一组人也是连续几夜被叫醒，但是在眼球没活动时被叫醒的。结果，第一组人开始出现性格失常，而第二组人似乎没受什么影响。这一切暗示我们：睡眠受到干忧没关系，而做梦受到干忧是有问题的。
-

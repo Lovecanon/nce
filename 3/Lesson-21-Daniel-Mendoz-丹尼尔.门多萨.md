@@ -5,7 +5,7 @@ One of the most colourful figures in boxing history was Daniel Mendoza, who was 
 
 Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old. This attracted the attention of Richard Humphries who was then the most eminent boxer in England. He offered to train Mendoza and his young pupil was quick to learn. In fact, Mendoza soon became so successful that Humphries turned against him. The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight. A match was held at Stilton, where both men fought for an hour. The public bet a great deal of money on Mendoza, but he was defeated. Mendoza met Humphries in the ring on a later occasion and he lost for a second time. It was not until his third match in 1790 that he finally beat Humphries and became Champion of England. Meanwhile, he founded a highly successful Academy and even Lord Byron became one of his pupils. He earned enormous sums of money and was paid as much as ￡100 for a single appear ance. Despite this, he was so extravagant that he was always in debt. After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten. He was sent to prison for failing to pay his debts and died in poverty in 1836.
 
-### New Words and Expressions 生词和短语
+## New words and Expressions 生词和短语
 
 * boxing（1. 1) /'bɔksiŋ/ n. 拳击
 * adore（1. 10) /ə'dɔ:/ v. 崇拜，爱戴
@@ -26,7 +26,7 @@ Mendoza rose to fame swiftly after a boxing match when he was only fourteen year
 * popularity（1. 10) /'pɔpju'læriti/ n. 名望
 * poverty（1. 22) /'pɔvəti/ n. 贫困
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. they were known as ‘prizefighters’，他们被称作“职业拳击手”。 be known as…，被称作……。
 2. until 1860, when the Marquis of Queensberry drew up the first set of rules中，以when引导的从句是定语从句，修饰前面的年代 1860年。draw up是“制定”、“草拟”的意思。a set of，一套。 Marquis of Queensberry，昆斯伯里侯爵，是指第8位昆斯伯里侯爵约翰·修托·道格拉斯（1844—1900），苏格兰贵族。他制定的“昆斯伯里规则”至今仍是拳击的比赛规则。
@@ -41,11 +41,10 @@ Mendoza rose to fame swiftly after a boxing match when he was only fourteen year
 10. It was not until his third match in 1790 that he finally beat Humphries…这是一个it的强调句。被强调的部分not until his third match in 1790放在It was之后，句子的其他部分放在引导词that之后。
 11. be in debt，负债。
 
-### 参考译文
+## 参考译文
 
 两百年前，拳击比赛在英国非常盛行。当时，拳击手们不戴手套，为争夺奖金而搏斗。因此，他们被称作“职业拳击手”。不过，拳击是十分野蛮的，因为当时没有任何比赛规则，职业拳击手有可能在比赛中受重伤，甚至丧命。
 
 拳击史上最引人注目的人物之一是丹尼尔·门多萨，他生于1764年。1860年昆斯伯里侯爵第一次为拳击比赛制定了规则，拳击比赛这才用上了手套。虽然门多萨严格来讲不过是个职业拳击手，但在把这种粗野的拳击变成一种体育运动方面，他作出了重大贡献。是他把科学引进了这项运动。门多萨在他的全盛时期深受大家欢迎，无论是富人还是穷人都对他崇拜备至。
 
 门多萨在14岁时参加了一场拳击赛后一举成名。这引起了当时英国拳坛名将理查德·汉弗莱斯的注意。他主动提出教授门多萨，而年少的门多萨一学就会。事实上，门多萨不久便名声大振，致使汉弗莱斯与他反目为敌。两个人争吵不休，显而易见，只有较量一番才能解决问题。于是两人在斯蒂尔顿设下赛场，厮打了一个小时。公众把大笔赌注下到了门多萨身上，但他却输了。后来，门多萨与汉弗莱斯再次在拳击场上较量，门多萨又输了一场。直到1790年他们第3次对垒，门多萨才终于击败了汉弗莱斯，成了全英拳击冠军。同时，他建立了一所拳击学校，办得很成功，连拜伦勋爵也成了他的学生。门多萨挣来大笔大笔的钱，一次出场费就可多达100英镑。尽管收入不少，但他挥霍无度，经常债台高筑。他在被一个叫杰克逊绅士的拳击手击败后很快被人遗忘。他因无力还债而被捕入狱，最后于1836年在贫困中死去。
-

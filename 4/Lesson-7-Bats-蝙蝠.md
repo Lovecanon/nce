@@ -9,7 +9,7 @@ MAURICE BURTON Curiosities of animal life
 	
 	 Echo-location in bats is often compared with radar.
 
-### New words and expressions 生词和短语
+## New words and expressions 生词和短语
 
 bat n.蝙蝠
 	strictly adv. 明确的
@@ -35,11 +35,10 @@ Note on the text 课文译注
 5. So was born the echo-sounding apparatus,这样就诞生了回声探测仪。这是一个倒装句，主要是为了避免因主语过长而使全句失去平衡，同时也为了使apparatus的定语now in general use in ships紧挨着名词。in general use,普遍使用。
 6. steer clear of,避开。
 
-### 参考译文
+## 参考译文
 
 动物发出的声音不都是用作语言交际。我们只要看一看蝙蝠回声定位这一极不寻常的发现，就可以探究一下声音在什么情况下有绝对的实用价值。
 
 要透彻理解这句话的意义，我们应先回顾一下人类最近的几项发明。大家都知道，在墙壁或山腰附近发出的喊声，就会听到回声。固体障碍物越远。回声返回所用时间就越长。敲打船体所发了的声音会从海底传回来，测出回声间隔的时间，便可算出该处海洋的深度。这样就产生了目前各种船舶上普遍应用的回声探测仪。任何固体者反射声音，反射的声音因物体的大小和性质的不同而不同。鱼群也反射声音。从测定海深到测定鱼群，这一进展比较容易。根据经验和改进了的仪器，不仅能够确定鱼群的位置，而且可以根据鱼群回声的特点分辨出是鲱鱼、鳕鱼，这是人们所熟悉的其他鱼。
 
 人们发现，某些蝙蝠能发出尖叫声，并能通过回声来确定并躲开障碍物，或找到它们赖以为生的昆虫。蝙蝠这种回声定位常常可与雷达相比较，其原理是相似的。
-

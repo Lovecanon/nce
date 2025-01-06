@@ -5,7 +5,7 @@ We had spent several days in a small town and visited a number of old churches i
 
 The path led to a tiny village perched on the steep sides of a mountain. The place consisted of a straggling unmade road which was lined on either side by small houses. Even under a clear blue sky, the village looked forbidding, as all the houses were built of grey mud bricks. The village seemed deserted, the only sign of life being an ugly-looking black goat on a short length of rope tied to a tree in a field nearby. Sitting down on a dilapidated wooden fence near the field, we opened a couple of tins of sardines and had a picnic lunch. All at once, I noticed that my wife seemed to be filled with alarm. Looking up I saw that we were surrounded by children in rags who were looking at us silently as we ate. We offered them food and spoke to them kindly, but they remained motionless. I concluded that they were simply shy of strangers. When we later walked down the main street of the village, we were followed by a silent procession of children. The village which had seemed deserted, immediately came to life. Faces appeared at windows. Men in shirt sleeves stood outside their houses and glared at us. Old women in black shawls peered at us from doorways. The most frightening thing of all was that not a sound could be heard. There was no doubt that we were unwelcome visitors. We needed no further warning. Turning back down the main street, we quickened our pace and made our way rapidly towards the stream where we hoped the boatman was waiting.
 
-### New Words and Expressions 生词和短语
+## New words and Expressions 生词和短语
 
 * inaccessible（1. 2) /'ink'sesbl/ adj. 难接近的，达不到的
 * hospitable（1. 3) /'hɔspitbl/ adj. 好客的
@@ -27,7 +27,7 @@ The path led to a tiny village perched on the steep sides of a mountain. The pla
 * peer（1. 28) /piə/ v. 凝视，盯着
 * quicken（1. 30) /'kwikən/ v. 加快
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. much-travelled world，经常有游客往来的世界。
 2. be inaccessible to…，是……难以到达的。
@@ -35,16 +35,15 @@ The path led to a tiny village perched on the steep sides of a mountain. The pla
 4. Balkans，巴尔干半岛，它位于欧洲东南部，包括阿尔巴尼亚、保加利亚、希腊、罗马尼亚东南部分、土耳其欧洲部分和前南斯拉夫各州。
 5. descend on，突然到来。
 6. taking a path which led out of the town是现在分词短语作时间状语，which引导定语从句修饰path。意即“走上了一条出镇的小路”。
-	7 (be) fast asleep，熟睡，此处作定语，修饰boatman。
+7 (be) fast asleep，熟睡，此处作定语，修饰boatman。
 8. the only sign of life being an ugly-looking black goat，这是一个由名词和分词组成的独立主格结构，作状语，说明seemed deserted。
 9. by shy of…，作“对……畏缩”，“害怕……”解。
 10. come to life，苏醒过来，活跃起来。
 
-### 参考译文
+## 参考译文
 
 在这个旅游频繁的世界上，仍有成千上万个游人足迹未至的地方。人们总是以为偏僻地方的村民们热情好客。但是，那些不但与外国旅游者隔绝，而且与本国同胞隔绝的人们有可能对游客抱有敌意。到真正偏僻的村庄去旅游并不是一件愉快的事情，我与妻子在一次周游巴尔干半岛时对此深有体会。
 
 我们在一座小镇上逗留了几天，参观了附近的许多古老的教堂。这些教堂吸引了大量游客，不仅是因为建筑风格奇特，而且还存有大量保存完好的壁画。我们离开小镇的前一天，镇上来了几辆满载游客的公共汽车。人多得使我们难以忍受，于是我们决定利用最后一天去乡间一游。我们走上了一条出镇的小路，穿过几块农田，来到一片茂密的树林。我们原以为小路会到此突然终止，没想到它在树林中继续向前延伸。我们在树林中跋涉了两个多小时，到了一条深溪边。我们可以看到小路在深溪对岸继续向前伸展，但却不知如何越过这道深溪。突然，妻子发现岸边泊着一条小船，船上有一船夫在呼呼大睡。我们轻轻地把他唤醒，请他把我们摆渡过溪。一开始，他很不愿意，但经劝说，终于同意了。
 
 顺着小路，我们来到一个座落在陡峭山坡上的小村庄。这儿有一条未经修筑的弯弯曲曲的道路，路两边排列着一些矮小的农舍。农舍全用灰色的土坯建成，因此，即使在晴朗的蓝天底下，村庄看上去也会令人感到难以亲近。村里似乎无人居住，唯一的生命迹象是附近田里一只面目可憎的黑山羊，用一截短绳拴在一棵树上。我们在田边一堵东倒西歪的篱笆墙上坐了下来，打开几听沙丁鱼罐头，吃了一顿野外午餐。突然，我注意到妻子十分惊恐。我抬头一看，发现我们被一群衣衫褴褛的小孩团团围住了，他们在默不作声地看着我们吃饭。我们给他们东西吃，客客气气地同他们交谈，但他们却一动也不动。我认为这不过是他们在陌生人面前表现出的害羞。后来，我们在村里的主要街道上行走的时候，一队默不作声的孩子跟在我们后头。刚才还似乎空荡荡的村庄一下子活跃了起来，窗口露出了一张张面孔，只穿着衬衣的男人们站在屋子外面凶狠地盯着我们，披黑纱巾的老妇人站在门口偷偷地瞅着我们。最令人害怕的是到处没有一点声音。毫无疑问，我们的来访是不受欢迎的。我们不需要进一步的警告了，便掉转身子，沿着那条主要的街道加快步伐，快速地朝深溪边走去，希望船夫还在那儿等着我们。
-

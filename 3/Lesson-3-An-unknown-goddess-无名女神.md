@@ -9,11 +9,11 @@ She was wearing a full-length skirt which swept the ground. Despite her great ag
 
 New words and expressions 生词与短语
 	
-	goddess(title) /'gɔdis/ n．女神
+goddess(title) /'gɔdis/ n．女神
 * sacred（1. 10)/'seikrid/ adj．宗教的，神圣的
 * archaeologist（1. 1) /'a:ki'ɔldʒist/ n．考古学家
 * fragment（1. 10) /'frægmənt/n．碎片
-	Aegean(1. 2) /i:'dʒi:ən/ adj．爱琴海的
+Aegean(1. 2) /i:'dʒi:ən/ adj．爱琴海的
 * remains（1. 12)/ri'menz/ n．遗物，遗迹，废墟
 * explore（1. 2) /ik'splɔ:/ v．考察，勘探
 * classical（1. 13)/'klæsikəl/ adj．（希腊和罗马）古文化的
@@ -30,7 +30,7 @@ New words and expressions 生词与短语
 * worship（1. 9) /'wə:ʃip/  n．祟拜
 * identity（1. 17) /ai'dentiti/  n．身份
 
-### Notes on the text 课文注释
+## Notes on the text 课文注释
 
 1. the Aegean island of Kea,爱琴海的基亚岛。爱琴海是东地中海的一部分，位于希腊半岛和小亚细亚之间，它包括希腊半岛以外的许多岛屿。基亚岛位于希腊半岛东南方的海域里。
 2. Ayia irini,阿伊亚.依里尼，意为“圣依里尼”，Irini是希腊文，意为“和平”。
@@ -47,4 +47,3 @@ New words and expressions 生词与短语
 考古工作者考察的这座庙宇从公元前15世纪直到罗马时代一直是祭祀祈祷的场所。在庙中最神圣的一间殿堂里发现了15尊陶雕像的碎片。每一尊雕像代表一位女神，而且一度上过色。其中有一尊雕像，她的躯体是在公元前15世纪的历史文物中发现的，而她那身异处的脑袋却碰巧是在公元前5世纪的文物中找到的。她的脑袋一定是在古希腊罗马时代就为人所发现，并受到精心的保护。却使在当时，它也属历史悠久的珍奇之物。考古工作者把这些碎片重新拼装起来后，惊奇地发现那位女神原来是一位相貌十分摩登的女郎。
 
 她身高3英尺，双手叉腰。身穿一条拖地长裙，尽管上了年纪，但体态确实优美。不过，考古工作者至今未能确定这位女神的身份。
-
